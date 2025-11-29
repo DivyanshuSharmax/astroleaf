@@ -22,7 +22,8 @@ export async function GET(context: APIContext) {
 	return rss({
 		title: siteConfig.title,
 		description: siteConfig.subtitle || "No description",
-		site: context.site ?? "https://astroleaf.vercel.app",
+		// If not provided by context.site, fall back to the repository URL (no Vercel URL by request)
+		site: context.site ?? "https://github.com/DivyanshuSharmax/astroleaf",
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");

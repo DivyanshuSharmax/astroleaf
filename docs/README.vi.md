@@ -1,8 +1,8 @@
-# 🍥Fuwari  
+# � AstroLeaf  
 
 Một mẫu blog tĩnh được xây bằng [Astro](https://astro.build).
 
-[**🖥️ Xem bản dùng thử (Vercel)**](https://fuwari.vercel.app)
+<!-- Đã bỏ URL demo theo yêu cầu -->
 
 ![Hình ảnh xem trước](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
@@ -21,7 +21,7 @@ Một mẫu blog tĩnh được xây bằng [Astro](https://astro.build).
 ## 🚀 Bắt đầu
 
 1. Tạo kho lưu trữ blog của bạn:
-    - [Tạo một kho lưu trữ mới](https://github.com/saicaca/fuwari/generate) từ mẫu này hoặc fork kho lưu trữ này.
+    - [Tạo một kho lưu trữ mới](https://github.com/DivyanshuSharmax/astroleaf/generate) từ mẫu này hoặc fork kho lưu trữ này.
     - Hoặc chạy một trong các lệnh sau:
        ```sh
        npm create fuwari@latest
@@ -77,7 +77,7 @@ Tất cả các lệnh được chạy từ thư mục gốc của dự án, t�
 
 ## ✏️ Đóng góp
 
-Xem [Hướng dẫn đóng góp](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) để biết thêm chi tiết về cách đóng góp cho dự án này.
+Xem [Hướng dẫn đóng góp](https://github.com/DivyanshuSharmax/astroleaf/blob/main/CONTRIBUTING.md) để biết thêm chi tiết về cách đóng góp cho dự án này.
 
 ## 📄 Giấy phép
 

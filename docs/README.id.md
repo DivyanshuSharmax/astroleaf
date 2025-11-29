@@ -1,8 +1,8 @@
-# 🍥 Fuwari
+# � AstroLeaf
 
 Template blog statis yang dibangun dengan [Astro](https://astro.build).
 
-[**🖥️ Demo Langsung (Vercel)**](https://fuwari.vercel.app)
+<!-- URL demo dihapus sesuai permintaan -->
 
 ![Gambar Pratinjau](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
@@ -30,7 +30,7 @@ Template blog statis yang dibangun dengan [Astro](https://astro.build).
 ## 🚀 Memulai
 
 1. Buat repositori blog kamu:
-    - [Generate repositori baru](https://github.com/saicaca/fuwari/generate) dari template ini atau fork repositori ini.
+    - [Generate repositori baru](https://github.com/DivyanshuSharmax/astroleaf/generate) dari template ini atau fork repositori ini.
     - Atau jalankan salah satu perintah berikut:
        ```sh
         # npm
@@ -95,7 +95,7 @@ Semua perintah dijalankan dari root proyek, via terminal:
 
 ## ✏️ Kontribusi
 
-Lihat [Panduan Kontribusi](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) untuk detail tentang cara berkontribusi ke proyek ini.
+Lihat [Panduan Kontribusi](https://github.com/DivyanshuSharmax/astroleaf/blob/main/CONTRIBUTING.md) untuk detail tentang cara berkontribusi ke proyek ini.
 
 ## 📄 Lisensi
 

@@ -1,8 +1,8 @@
-# 🍥Fuwari
+# � AstroLeaf
 
 基于 [Astro](https://astro.build) 开发的静态博客模板。
 
-[**🖥️在线预览（Vercel）**](https://fuwari.vercel.app)
+<!-- 预览地址按需添加 -->
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
@@ -24,7 +24,7 @@
 
 ## 🚀 使用方法 1
 
-使用 [create-fuwari](https://github.com/L4Ph/create-fuwari) 在本地初始化项目。
+使用 GitHub 模板或克隆仓库在本地初始化项目。
 
 ```sh
 # npm
@@ -49,7 +49,7 @@ deno run -A npm:create-fuwari@latest
 
 ## 🚀 使用方法 2
 
-1. 使用此模板[生成新仓库](https://github.com/saicaca/fuwari/generate)或 Fork 此仓库
+1. 使用此模板[生成新仓库](https://github.com/DivyanshuSharmax/astroleaf/generate)或 Fork 此仓库
 2. 进行本地开发，Clone 新的仓库，执行 `pnpm install` 和 `pnpm add sharp` 以安装依赖  
    - 若未安装 [pnpm](https://pnpm.io)，执行 `npm install -g pnpm`
 3. 通过配置文件 `src/config.ts` 自定义博客
